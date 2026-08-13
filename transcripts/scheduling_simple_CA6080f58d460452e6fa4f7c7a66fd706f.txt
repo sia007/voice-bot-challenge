@@ -1,0 +1,26 @@
+# Scenario: scheduling_simple
+# Call SID: CA6080f58d460452e6fa4f7c7a66fd706f
+
+[PRACTICE AGENT] Okay.
+[PRACTICE AGENT] Para Español, oprima el 2.
+[PRACTICE AGENT] Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?
+[PATIENT (our bot)] Hi, yeah, I need to set up an appointment for a routine check-up sometime next week, preferably in the morning.
+[PRACTICE AGENT] I see you're calling from a number we have on file. Am I speaking with Sarah?
+[PATIENT (our bot)] Yeah, this is Sarah Mitchell. That's me.
+[PRACTICE AGENT] Please provide your date of birth.
+[PATIENT (our bot)] Sure, my date of birth is March 14, 1990.
+[PATIENT (our bot)] Yeah, that’s right. Any morning next week would be great.
+[PRACTICE AGENT] Just to confirm, you'd like to book a general office visit for a routine checkup next week in the morning. Is that correct?
+[PRACTICE AGENT] Do you have a specific provider you'd like to see, or are you open to any available provider?
+[PATIENT (our bot)] I'm open to any available provider, no specific preference.
+[PATIENT (our bot)] Sounds good, I’ll wait.
+[PRACTICE AGENT] Let me check for available morning appointments next week with any provider.
+[PRACTICE AGENT] You already have.
+[PATIENT (our bot)] Oh, I actually don’t have anything set up yet, so I’m ready to pick from what you find available.
+[PRACTICE AGENT] You actually already have an office visit scheduled for Monday, August 17th at 9 a.m. Would you like to keep this appointment, reschedule it, or cancel it and book a different time?
+[PATIENT (our bot)] Oh, I must’ve forgotten. That works perfectly for me. I’ll keep that appointment on Monday at 9 a.m. Thanks for checking.
+[PRACTICE AGENT] You're all set for Monday, August 17th at 9 a.m. If you need to make any changes, just let me know. Is there anything else I can help you with today?
+[PATIENT (our bot)] No, that’s all I needed. Thanks a lot for your help. I’ll be there Monday morning. Take care.
+[PRACTICE AGENT] Great. We look forward to seeing you Monday morning.
+[PRACTICE AGENT] Have a wonderful day.
+[PATIENT (our bot)] You too, bye now.
