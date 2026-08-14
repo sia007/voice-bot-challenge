@@ -36,9 +36,13 @@ info, poor handling of interruptions, and overly robotic phrasing.
 Only report things that are actually visible in the transcript -- do not invent issues. If you
 find nothing notable, say so explicitly.
 
-For each issue, respond in this exact format (one block per issue):
+For each issue, respond in this exact format (one block per issue). The field
+labels below (Bug, Scenario, Severity, Quote, Details) are fixed literal text --
+reproduce them exactly as shown, do not rename, reword, or add words to them
+(e.g. write "Scenario:", never "Scenario Title:" or "Scenario Name:"):
 
 Bug: <one-line description>
+Scenario: <the exact scenario title given above -- copy it verbatim, word for word>
 Severity: <Low|Medium|High|Critical>
 Quote: <short quote from the transcript, <15 words, showing the issue>
 Details: <1-3 sentences explaining why it's a problem, and explicitly note whether the patient's
@@ -63,7 +67,7 @@ different calls. For each recurring pattern you find, write ONE consolidated ent
 Bug: <one-line description of the systemic issue>
 Severity: Critical (recurring, systemic issues that block the patient's core request are more
 severe than any single instance)
-Calls affected: <list the call/file names involved>
+Scenarios/Calls affected: <list each as "Scenario Title (filename.txt)", one per line>
 Details: <2-4 sentences describing the pattern and why its frequency makes it more serious than
 the individual entries suggest>
 
