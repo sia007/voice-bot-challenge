@@ -1,0 +1,25 @@
+# Scenario: refill_ambiguous_med
+# Call SID: CA384c074a17cbba95770ab0b08b1286b5
+
+[PATIENT (our bot)] (Espera un
+[PRACTICE AGENT] Para Español, oprima el 2.
+[PRACTICE AGENT] Thanks for calling Visit Point Orthopedics. Part of Pretty Good AI. How may I help you today?
+[PATIENT (our bot)] Hey, yeah, I'm hoping you can help me out. I need a refill on a prescription, but I'm not totally sure of the name. It's the little white pill for my cholesterol, I
+[PRACTICE AGENT] I can help with your prescription request.
+[PRACTICE AGENT] They have your full name and date of birth.
+[PATIENT (our bot)] Sure, my name's Robert Kim, and my date of birth is January 18, 1958.
+[PATIENT (our bot)] Yeah, that's correct. It's Robert, R-O-B-E-R-T, and Kim, K-I-M.
+[PRACTICE AGENT] I have your name as Robert Kim and your date of birth is January 18th, 1958. Is that correct? If so, please spell your first and last name for me.
+[PRACTICE AGENT] Would you like to use your phone number to help look up your record? If so, please tell me the number you have on file with us.
+[PRACTICE AGENT] If you're not sure, I can confirm your name and date of birth again.
+[PATIENT (our bot)] Sure, my phone number on file should be 555-882-3345.
+[PRACTICE AGENT] I have your phone number as 555-882-3345 and your date of birth.
+[PRACTICE AGENT] as January 18, 1958. Is that correct?
+[PATIENT (our bot)] Yes, that's correct. That's my information. Now, about that refill—it's the little white pill for my cholesterol, and I think it starts with an A.
+[PRACTICE AGENT] I can't proceed further right now, but I can make sure our clinic support team follows up with you.
+[PRACTICE AGENT] Would you like me to connect you to our patient support team?
+[PATIENT (our bot)] Yeah, that sounds good. I think that's what I need, so they can help figure out the exact pill. Thanks.
+[PRACTICE AGENT] Transferring you now. Thank you.
+[PATIENT (our bot)] Thanks, I appreciate it. I'll wait.
+[PRACTICE AGENT] Hello, you've reached the Pretty Good AI test line. Goodbye.
+[PATIENT (our bot)] Goodbye, and thank you.

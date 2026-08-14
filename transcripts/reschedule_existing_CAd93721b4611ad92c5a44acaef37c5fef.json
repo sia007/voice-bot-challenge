@@ -1,0 +1,132 @@
+[
+  {
+    "speaker": "caller_bot",
+    "text": "Hola, s\u00ed,",
+    "t": 1786708274.427287
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Para Espa\u00f1ol, oprima el 2.",
+    "t": 1786708274.885099
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Thanks for calling Pivot Point Orthopedics.",
+    "t": 1786708278.305701
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "part of pretty good AI. How may I help you today?",
+    "t": 1786708281.436495
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Hey, I\u2019ve got an appointment this Thursday at 2pm, but I need to reschedule it to early next week because of a work conflict. Could you help me with that?",
+    "t": 1786708282.270894
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Sure, it's Maria Lopez, and my date of birth is November 2nd, 1978.",
+    "t": 1786708298.855981
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I can help update your appointment. May I have your full name and date of birth?",
+    "t": 1786708299.861892
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Just to confirm, I have your name as Maria Lopez and your date of birth as November 2nd, 1978. Is that correct? If so, could you please spell your first and last name for me?",
+    "t": 1786708320.8187551
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yes, that\u2019s correct. My first name is spelled M-A-R-I-A, and my last name is L-O-P-E-Z.",
+    "t": 1786708321.682994
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Sure, it's November 2nd, 1978.",
+    "t": 1786708337.4814348
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Thank you. Could you please confirm your date of birth one more time?",
+    "t": 1786708338.134049
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I'd have your phone number as 417-796-4623 and your date of birth as November 2nd, 1978. Is that correct?",
+    "t": 1786708357.150769
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Actually, my phone number is 555-410-2266. The date of birth is correct, though.",
+    "t": 1786708357.5856729
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Thanks for confirming. Let me check your record and help with your appointment change.",
+    "t": 1786708371.109081
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Great, I appreciate it.",
+    "t": 1786708371.287272
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I have your number, it's 5-",
+    "t": 1786708373.334702
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "It's 555-410-2266. Let me know if you need me to repeat it.",
+    "t": 1786708374.4104562
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I have your number as 555-410-2266.",
+    "t": 1786708387.596808
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Is that correct?",
+    "t": 1786708388.3892758
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yes, that\u2019s correct. That\u2019s my number.",
+    "t": 1786708388.899929
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I'm having trouble finding your record in our system. I can connect you to our patient support team. However, I'm a pretty good AI and can do many of the things that Operator can. Do you want to give me a try?",
+    "t": 1786708407.965154
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "I\u2019m a bit confused. I already gave my details. Could you check again for the appointment this Thursday at 2pm?",
+    "t": 1786708408.7433972
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Hang on, could we try one more time to find my appointment before transferring? It's Maria Lopez, with the Thursday",
+    "t": 1786708420.715177
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "transferring you now. Thank you.",
+    "t": 1786708420.8045561
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Hello, you've reached the pretty good AI test line, goodbye.",
+    "t": 1786708425.931752
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Oh, all right. Thank you anyway. Goodbye.",
+    "t": 1786708426.053893
+  }
+]

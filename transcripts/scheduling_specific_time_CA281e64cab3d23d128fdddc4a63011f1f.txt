@@ -1,0 +1,29 @@
+# Scenario: scheduling_specific_time
+# Call SID: CA281e64cab3d23d128fdddc4a63011f1f
+
+[PRACTICE AGENT] this is.
+[PATIENT (our bot)] (Espera en sil
+[PRACTICE AGENT] Para español, oprima el 2.
+[PATIENT (our bot)] Hi, yeah, I need to set up a follow-up appointment for this Saturday at 10 in the morning. Could you help me with that?
+[PRACTICE AGENT] Thanks for calling pivot point orthopedics part of pretty good AI. How may I help you today?
+[PATIENT (our bot)] Oh, no, this is David Chen. Maybe the number is just similar.
+[PRACTICE AGENT] I see you're calling from the number we have on file. Am I speaking with Sarah?
+[PRACTICE AGENT] Please provide your full date of birth.
+[PATIENT (our bot)] Sure, it's July 22, 1985.
+[PRACTICE AGENT] data
+[PATIENT (our bot)] Of course. First name: D-A-V-I-D. Last name: C-H-E-N.
+[PRACTICE AGENT] Could you please spell your first and last name for me, just to make sure I have it correct?
+[PRACTICE AGENT] Would you like to use your phone number to look up your record? If so, please tell me the number you have on file with us.
+[PRACTICE AGENT] If you're not sure, just let me know.
+[PATIENT (our bot)] Yeah, I can give you the number: it's 555-303-9921.
+[PRACTICE AGENT] I have your phone number as 555.
+[PATIENT (our bot)] Yep, that’s correct. Now, can we lock in that Saturday 10 a.m. slot?
+[PRACTICE AGENT] 303 9921 and your date of birth is July 22nd 1985. Is that correct?
+[PRACTICE AGENT] I can't proceed further right now, but I can make sure our clinic support team follows up with you. Would you like me to connect you to our patient support team?
+[PATIENT (our bot)] Hmm, I really just need to confirm the appointment. Is there any way you can check the availability for Saturday at 10 a.m. right now?
+[PATIENT (our bot)] Yeah, go ahead and transfer me. That should help. Thanks.
+[PRACTICE AGENT] I'm unable to access your record to check availability at the moment. I can connect you to our patient support team so they can help you right away. Would you like me to transfer you now?
+[PATIENT (our bot)] Thanks, I’ll wait for the
+[PRACTICE AGENT] Fares for you now. Thank you.
+[PATIENT (our bot)] Oh, that’s strange. It sounds like the call just ended. Let me try again later.
+[PRACTICE AGENT] Hello, you've reached the Pretty Good AI test line. Goodbye.

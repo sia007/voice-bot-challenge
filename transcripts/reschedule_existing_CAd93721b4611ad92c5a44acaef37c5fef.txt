@@ -1,0 +1,29 @@
+# Scenario: reschedule_existing
+# Call SID: CAd93721b4611ad92c5a44acaef37c5fef
+
+[PATIENT (our bot)] Hola, sí,
+[PRACTICE AGENT] Para Español, oprima el 2.
+[PRACTICE AGENT] Thanks for calling Pivot Point Orthopedics.
+[PRACTICE AGENT] part of pretty good AI. How may I help you today?
+[PATIENT (our bot)] Hey, I’ve got an appointment this Thursday at 2pm, but I need to reschedule it to early next week because of a work conflict. Could you help me with that?
+[PATIENT (our bot)] Sure, it's Maria Lopez, and my date of birth is November 2nd, 1978.
+[PRACTICE AGENT] I can help update your appointment. May I have your full name and date of birth?
+[PRACTICE AGENT] Just to confirm, I have your name as Maria Lopez and your date of birth as November 2nd, 1978. Is that correct? If so, could you please spell your first and last name for me?
+[PATIENT (our bot)] Yes, that’s correct. My first name is spelled M-A-R-I-A, and my last name is L-O-P-E-Z.
+[PATIENT (our bot)] Sure, it's November 2nd, 1978.
+[PRACTICE AGENT] Thank you. Could you please confirm your date of birth one more time?
+[PRACTICE AGENT] I'd have your phone number as 417-796-4623 and your date of birth as November 2nd, 1978. Is that correct?
+[PATIENT (our bot)] Actually, my phone number is 555-410-2266. The date of birth is correct, though.
+[PRACTICE AGENT] Thanks for confirming. Let me check your record and help with your appointment change.
+[PATIENT (our bot)] Great, I appreciate it.
+[PRACTICE AGENT] I have your number, it's 5-
+[PATIENT (our bot)] It's 555-410-2266. Let me know if you need me to repeat it.
+[PRACTICE AGENT] I have your number as 555-410-2266.
+[PRACTICE AGENT] Is that correct?
+[PATIENT (our bot)] Yes, that’s correct. That’s my number.
+[PRACTICE AGENT] I'm having trouble finding your record in our system. I can connect you to our patient support team. However, I'm a pretty good AI and can do many of the things that Operator can. Do you want to give me a try?
+[PATIENT (our bot)] I’m a bit confused. I already gave my details. Could you check again for the appointment this Thursday at 2pm?
+[PATIENT (our bot)] Hang on, could we try one more time to find my appointment before transferring? It's Maria Lopez, with the Thursday
+[PRACTICE AGENT] transferring you now. Thank you.
+[PRACTICE AGENT] Hello, you've reached the pretty good AI test line, goodbye.
+[PATIENT (our bot)] Oh, all right. Thank you anyway. Goodbye.

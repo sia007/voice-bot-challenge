@@ -1,0 +1,112 @@
+[
+  {
+    "speaker": "caller_bot",
+    "text": "(Espera un",
+    "t": 1786708776.010253
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Para Espa\u00f1ol, oprima el 2.",
+    "t": 1786708776.370974
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Thanks for calling Visit Point Orthopedics. Part of Pretty Good AI. How may I help you today?",
+    "t": 1786708782.853792
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Hey, yeah, I'm hoping you can help me out. I need a refill on a prescription, but I'm not totally sure of the name. It's the little white pill for my cholesterol, I",
+    "t": 1786708783.833219
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I can help with your prescription request.",
+    "t": 1786708800.2899241
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "They have your full name and date of birth.",
+    "t": 1786708803.2395499
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Sure, my name's Robert Kim, and my date of birth is January 18, 1958.",
+    "t": 1786708803.528716
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yeah, that's correct. It's Robert, R-O-B-E-R-T, and Kim, K-I-M.",
+    "t": 1786708825.672957
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I have your name as Robert Kim and your date of birth is January 18th, 1958. Is that correct? If so, please spell your first and last name for me.",
+    "t": 1786708825.9872582
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Would you like to use your phone number to help look up your record? If so, please tell me the number you have on file with us.",
+    "t": 1786708845.08202
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "If you're not sure, I can confirm your name and date of birth again.",
+    "t": 1786708848.138237
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Sure, my phone number on file should be 555-882-3345.",
+    "t": 1786708849.415606
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I have your phone number as 555-882-3345 and your date of birth.",
+    "t": 1786708866.5278
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "as January 18, 1958. Is that correct?",
+    "t": 1786708870.368354
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yes, that's correct. That's my information. Now, about that refill\u2014it's the little white pill for my cholesterol, and I think it starts with an A.",
+    "t": 1786708872.021246
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I can't proceed further right now, but I can make sure our clinic support team follows up with you.",
+    "t": 1786708887.399515
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Would you like me to connect you to our patient support team?",
+    "t": 1786708890.328313
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yeah, that sounds good. I think that's what I need, so they can help figure out the exact pill. Thanks.",
+    "t": 1786708891.39155
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Transferring you now. Thank you.",
+    "t": 1786708901.769102
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Thanks, I appreciate it. I'll wait.",
+    "t": 1786708901.96138
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Hello, you've reached the Pretty Good AI test line. Goodbye.",
+    "t": 1786708906.640791
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Goodbye, and thank you.",
+    "t": 1786708906.906164
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "speaker": "agent_under_test",
+    "text": "purposes.",
+    "t": 1786709060.790854
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Eh, hola,",
+    "t": 1786709062.083285
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Para Espa\u00f1ol, oprima el 2.",
+    "t": 1786709062.2238028
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?",
+    "t": 1786709068.655736
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Hey, uh, I'm trying to find out if you take my insurance. It\u2019s kind of a unique one\u2014my employer\u2019s self-funded plan through Acme Logistics, administered by UMR. Could you help me figure that out?",
+    "t": 1786709070.544231
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Sure, my name\u2019s Thomas Reyes, and my date of birth is March 5th, 1982.",
+    "t": 1786709089.1605692
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I can check that for you. May I have your full name and date of birth?",
+    "t": 1786709089.364613
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I have your name as Thomas Reyes and your date of birth as March 5th, 1982. Could you please spell out your first and last name to make sure I have it correct?",
+    "t": 1786709108.541934
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Of course, first name: T-H-O-M-A-S, last name: R-E-Y-E-S.",
+    "t": 1786709109.2892969
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us.",
+    "t": 1786709128.068504
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "If you're not sure I can confirm your name and date of birth again, which would you prefer?",
+    "t": 1786709133.4097931
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Let\u2019s use my phone number. It\u2019s 555-771-4482.",
+    "t": 1786709133.656231
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I have your phone number as 555-771-4482 and your date of birth as March 5, 1982.",
+    "t": 1786709152.104342
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Is that correct?",
+    "t": 1786709152.904808
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yep, that\u2019s correct. So, can you tell me if you accept that insurance plan I mentioned?",
+    "t": 1786709153.8115048
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "All right, that sounds good. I\u2019ll wait for them to get back to me. Thanks for your help. Take care.",
+    "t": 1786709173.409587
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I can't proceed further right now, but I can make sure our clinic support team follows up with you about your insurance question. I'll document your request for them.",
+    "t": 1786709173.492864
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Trust for you now. Thank you",
+    "t": 1786709175.5008872
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "No problem at all. Have a good one, bye.",
+    "t": 1786709176.0343559
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Goodbye, take care.",
+    "t": 1786709180.835419
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Hello, you've reached the Pretty Good AI test line. Goodbye.",
+    "t": 1786709181.480656
+  }
+]

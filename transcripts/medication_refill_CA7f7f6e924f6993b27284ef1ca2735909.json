@@ -1,0 +1,152 @@
+[
+  {
+    "speaker": "agent_under_test",
+    "text": "That's it.",
+    "t": 1786708605.104256
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Um, hi there.",
+    "t": 1786708606.203674
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Para Espa\u00f1ol, oprima el 2.",
+    "t": 1786708606.7177742
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Hi, I\u2019m calling because I need a refill on my blood pressure medication. Could you help me with that?",
+    "t": 1786708613.3703701
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Thanks for calling pivot point orthopedics part of pretty good AI. How may I help you today?",
+    "t": 1786708613.376553
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I see you're calling from the number we have on file.",
+    "t": 1786708625.150764
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Am I speaking with Sarah?",
+    "t": 1786708625.9242141
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Oh, actually, my name is Linda Park. Maybe there\u2019s been a mix-up. I can give you my details if that helps.",
+    "t": 1786708626.135488
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Yes, please provide your full name and date of birth.",
+    "t": 1786708638.40704
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Sure, it's Linda Park, and my date of birth is September 9, 1965.",
+    "t": 1786708638.43857
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Just to confirm, I have your name as Linda Park and your date of birth as September 9th, 1965. Is that correct? If so, could you please spell your first and last name for me?",
+    "t": 1786708658.987123
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yes, that\u2019s correct. My first name: L-I-N-D-A, and last name: P-A-R-K.",
+    "t": 1786708659.4259331
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Would you like me to look up your record using the phone number you have on file with us?",
+    "t": 1786708673.1375518
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "If so, please tell me that number.",
+    "t": 1786708675.7083158
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "I can give you my phone number. It's 555-556-2200.",
+    "t": 1786708681.544805
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "If you're not sure, I can confirm your name and date of birth again. Which would you prefer?",
+    "t": 1786708681.6518898
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I have your phone number as 555-556.",
+    "t": 1786708692.749813
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "That's right",
+    "t": 1786708694.4735591
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "2200.",
+    "t": 1786708695.4490938
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Is that correct?",
+    "t": 1786708696.0730188
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yes, that's correct. Now, could we go ahead and sort out the refill for my lisinopril 10 mg?",
+    "t": 1786708696.804291
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Sure, no problem.",
+    "t": 1786708710.3299918
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Let me finish verifying your information and then I'll help with your Lysita Pro refill. One moment.",
+    "t": 1786708711.146164
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I can't proceed further right now, but I can make sure our clinic support team follows up with you. Would you like me to connect you to our patient support team?",
+    "t": 1786708723.447388
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Actually, I really need to make sure this refill gets sent to my pharmacy. Can you help confirm the pharmacy for me?",
+    "t": 1786708724.4619389
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Transferring you now. Thank you",
+    "t": 1786708733.348865
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Wait\u2014just to clarify, the pharmacy is Walgreens on Main Street.",
+    "t": 1786708733.723935
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Goodbye.",
+    "t": 1786708738.5473669
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Hello, you've reached the pretty good AI test line.",
+    "t": 1786708738.629347
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "All right, thanks for your help. Goodbye.",
+    "t": 1786708739.067351
+  }
+]

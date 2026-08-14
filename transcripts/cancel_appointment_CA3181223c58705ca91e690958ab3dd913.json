@@ -1,0 +1,112 @@
+[
+  {
+    "speaker": "agent_under_test",
+    "text": "this is.",
+    "t": 1786708462.5589561
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Hola,",
+    "t": 1786708464.3636742
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Para Espa\u00f1ol, oprima el 2.",
+    "t": 1786708465.423285
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.",
+    "t": 1786708469.500944
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Uh, hi there. I need to cancel an appointment, please.",
+    "t": 1786708469.597706
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yeah, I need to cancel my upcoming appointment. What do you need from me to do that?",
+    "t": 1786708473.099112
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "How may I help you today?",
+    "t": 1786708473.26983
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Can I have your full name and date of birth to look up your appointment?",
+    "t": 1786708484.367108
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Sure, it's James Ortiz, and my date of birth is 05/30/1992.",
+    "t": 1786708484.7041469
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yes, that\u2019s correct.",
+    "t": 1786708501.5375009
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I have your name as James Ortiz and your date of birth as May 30, 1992, is that correct?",
+    "t": 1786708502.592816
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure I can confirm your name and date of birth again, just let me know.",
+    "t": 1786708518.342548
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Sure, I can give you my phone number. It\u2019s 555-118-7734.",
+    "t": 1786708518.945465
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I have your number as 555-118-7734.",
+    "t": 1786708533.239207
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Is that correct?",
+    "t": 1786708533.283393
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yes, that\u2019s correct.",
+    "t": 1786708533.747946
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Just to confirm, your phone number is 555-118-7734 and your date of birth is May 30, 1992. Is that all correct?",
+    "t": 1786708551.846625
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yes, everything's correct. Could you go ahead and cancel that appointment for me?",
+    "t": 1786708552.212775
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Oh, wait, I just need to confirm the cancellation. Could you let",
+    "t": 1786708563.2853482
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "transferring you now. Thank you.",
+    "t": 1786708563.7970161
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Hello, you've reached the pretty good AI test line. Goodbye",
+    "t": 1786708569.1657221
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Oh, hold on, I still need confirmation that my appointment is canceled. Can you confirm that for me?",
+    "t": 1786708569.183042
+  }
+]

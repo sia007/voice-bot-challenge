@@ -1,0 +1,30 @@
+# Scenario: unclear_garbled_request
+# Call SID: CAfa947468994ff412b7d1c61443d11547
+
+[PRACTICE AGENT] purposes.
+[PATIENT (our bot)] Hola,
+[PRACTICE AGENT] Para Español, oprima el 2.
+[PRACTICE AGENT] Thanks for calling Pivot Point Orthopedics. Part of Pretty Good AI? How may I help you today?
+[PATIENT (our bot)] Oh, hey, um, so I've been having this thing with my, uh, well, I'm not exactly sure what it is, but I guess I should probably come in. Not sure who I even need to see, you know?
+[PRACTICE AGENT] Can I get your full name and date of birth, please?
+[PATIENT (our bot)] Sure, it's George Wallace, and my date of birth is 12/12/1970.
+[PRACTICE AGENT] just to make sure I have it right.
+[PRACTICE AGENT] Can you please spell your first and last name for me?
+[PRACTICE AGENT] Your date of birth is December 12th, 1970, correct?
+[PATIENT (our bot)] Yeah, that's right. My first name is George, G-E-O-R-G-E, and my last name is Wallace, W-A-L-L-A-C-E.
+[PRACTICE AGENT] Would you like to use your phone number to look up your record? If so, please tell me the number you have on file with us.
+[PRACTICE AGENT] If you're not sure, just let me know.
+[PATIENT (our bot)] Yeah, I can give you my number. It’s 555-233-8890.
+[PRACTICE AGENT] I have your phone number as 555-233-889-0.
+[PRACTICE AGENT] and your date of birth.
+[PRACTICE AGENT] as December 12, 1970. Is that correct?
+[PATIENT (our bot)] Yep, that’s correct. That's my date of birth and phone number.
+[PRACTICE AGENT] Thanks for confirming
+[PRACTICE AGENT] I wasn't able to find your record in our system.
+[PRACTICE AGENT] I'll connect you to our patient support team so they can help get you scheduled.
+[PRACTICE AGENT] Please stay on the line.
+[PATIENT (our bot)] Oh, wait, before transferring, could we figure out what kind of appointment
+[PRACTICE AGENT] Transferring you now. Thank you.
+[PRACTICE AGENT] Hello, you've reached the pretty good AI test line.
+[PRACTICE AGENT] Goodbye.
+[PATIENT (our bot)] Oh, all right, I’ll try again later. Thanks anyway. Take care.

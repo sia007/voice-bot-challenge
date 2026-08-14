@@ -1,0 +1,29 @@
+# Scenario: interruption_barge_in
+# Call SID: CA0f3bd0e104c5a294486004f367007f13
+
+[PRACTICE AGENT] Para Español, oprima el 2.
+[PRACTICE AGENT] Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?
+[PATIENT (our bot)] Hey, yeah, I need to book an appointment.
+[PATIENT (our bot)] Oh, sorry, no, this is Priya Patel. Maybe there's been a mix-up.
+[PRACTICE AGENT] I see you're calling from the number we have on file. Am I speaking with Sarah?
+[PRACTICE AGENT] No problem. Please provide your full name and date of birth.
+[PATIENT (our bot)] Sure, it’s Priya Patel, and my date of birth is April 25, 1988.
+[PATIENT (our bot)] Yes, that’s correct. It’s P-R-I-Y-A, and Patel is P-A-T-E-L.
+[PRACTICE AGENT] Just to confirm, I have your name as Priya Patel and your date of birth as April 25th, 1988. Is that correct? If so, please spell your first and last name for me.
+[PATIENT (our bot)] Yeah, my number is 555-990-1123.
+[PRACTICE AGENT] Would you like to use your phone number to look up your record? If so, please tell me the number you have on file with us. If you're not sure, just let me know.
+[PRACTICE AGENT] Would you like to use your phone?
+[PATIENT (our bot)] Wait, sorry—did you say something about using my phone number, or should I pick a time now?
+[PATIENT (our bot)] Sure, the number is 555-990-1123.
+[PRACTICE AGENT] Yes, I need your phone number to look up your record. Please provide the number you have on file with us. Once I confirm your details, we can look at appointment times.
+[PATIENT (our bot)] Yep, that's correct.
+[PRACTICE AGENT] I'd have your phone number as 555-990-1123 and your date of birth as April 25th, 1988. Is that correct?
+[PRACTICE AGENT] I'm unable to find your record in our system. I can connect you to our patient support team for help. Would you like me to transfer you now?
+[PATIENT (our bot)] Oh, hold on, before that—can we just check what appointment times are available first?
+[PATIENT (our bot)] Wait, just to clarify, did you say you can't see any appointment times at all right now?
+[PRACTICE AGENT] I can't check appointment times without first finding your record in our system. Our patient support team can help get you set up and book your appointment. Would you like me to connect you now?
+[PRACTICE AGENT] That's right, I need to locate your patient record before I can view or book any appointment time. Since I couldn't find your record, our support team will need to help you get started. Would you like me to connect you to them now?
+[PATIENT (our bot)] All right, go ahead and connect me to them. Thanks for your help.
+[PRACTICE AGENT] Transferring you now. Thank you
+[PRACTICE AGENT] Hello, you've reached the Pretty Good AI test line. Goodbye.
+[PATIENT (our bot)] Goodbye. I’ll call back if I need anything else.

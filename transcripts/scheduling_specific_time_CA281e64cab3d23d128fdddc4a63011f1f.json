@@ -1,0 +1,132 @@
+[
+  {
+    "speaker": "agent_under_test",
+    "text": "this is.",
+    "t": 1786708100.1650848
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "(Espera en sil",
+    "t": 1786708100.541319
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Para espa\u00f1ol, oprima el 2.",
+    "t": 1786708101.530389
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Hi, yeah, I need to set up a follow-up appointment for this Saturday at 10 in the morning. Could you help me with that?",
+    "t": 1786708107.287658
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Thanks for calling pivot point orthopedics part of pretty good AI. How may I help you today?",
+    "t": 1786708107.4004962
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Oh, no, this is David Chen. Maybe the number is just similar.",
+    "t": 1786708121.3679209
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I see you're calling from the number we have on file. Am I speaking with Sarah?",
+    "t": 1786708122.1903439
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Please provide your full date of birth.",
+    "t": 1786708131.1035662
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Sure, it's July 22, 1985.",
+    "t": 1786708131.705385
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "data",
+    "t": 1786708131.983804
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Of course. First name: D-A-V-I-D. Last name: C-H-E-N.",
+    "t": 1786708146.366949
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Could you please spell your first and last name for me, just to make sure I have it correct?",
+    "t": 1786708147.6972601
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Would you like to use your phone number to look up your record? If so, please tell me the number you have on file with us.",
+    "t": 1786708164.810544
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "If you're not sure, just let me know.",
+    "t": 1786708166.700696
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yeah, I can give you the number: it's 555-303-9921.",
+    "t": 1786708166.723259
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I have your phone number as 555.",
+    "t": 1786708178.301824
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yep, that\u2019s correct. Now, can we lock in that Saturday 10 a.m. slot?",
+    "t": 1786708186.3677912
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "303 9921 and your date of birth is July 22nd 1985. Is that correct?",
+    "t": 1786708187.033546
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I can't proceed further right now, but I can make sure our clinic support team follows up with you. Would you like me to connect you to our patient support team?",
+    "t": 1786708202.664546
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Hmm, I really just need to confirm the appointment. Is there any way you can check the availability for Saturday at 10 a.m. right now?",
+    "t": 1786708203.49608
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yeah, go ahead and transfer me. That should help. Thanks.",
+    "t": 1786708222.982628
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I'm unable to access your record to check availability at the moment. I can connect you to our patient support team so they can help you right away. Would you like me to transfer you now?",
+    "t": 1786708224.514656
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Thanks, I\u2019ll wait for the",
+    "t": 1786708231.9194748
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Fares for you now. Thank you.",
+    "t": 1786708232.652833
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Oh, that\u2019s strange. It sounds like the call just ended. Let me try again later.",
+    "t": 1786708237.6594439
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Hello, you've reached the Pretty Good AI test line. Goodbye.",
+    "t": 1786708237.809663
+  }
+]

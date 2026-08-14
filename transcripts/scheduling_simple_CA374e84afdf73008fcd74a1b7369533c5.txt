@@ -1,0 +1,27 @@
+# Scenario: scheduling_simple
+# Call SID: CA374e84afdf73008fcd74a1b7369533c5
+
+[PRACTICE AGENT] purposes.
+[PRACTICE AGENT] Para Español, oprima el 2.
+[PATIENT (our bot)] Hi, I’m looking to book a routine check-up appointment for next week, preferably in the morning.
+[PRACTICE AGENT] Thanks for calling pivot point orthopedics part of pretty good AI. How may I help you today?
+[PATIENT (our bot)] Yes, that's me, Sarah Mitchell.
+[PRACTICE AGENT] I see you're calling from the number we have on file. Am I speaking with Sarah?
+[PRACTICE AGENT] Please provide your date of birth.
+[PATIENT (our bot)] Sure, it's March 14th, 1990.
+[PRACTICE AGENT] Just to confirm, you'd like to book a general office visit for a routine checkup next week?
+[PRACTICE AGENT] Is that correct?
+[PATIENT (our bot)] Yes, exactly. I'm looking for a routine check-up, sometime next week, morning if possible.
+[PATIENT (our bot)] I'm open to any available provider, as long as I can get a morning slot next week.
+[PRACTICE AGENT] Do you have a specific provider you'd like to see, or are you open to any available provider?
+[PRACTICE AGENT] Let me check for morning openings with any provider for next week.
+[PATIENT (our bot)] Great, thanks. I'll wait.
+[PRACTICE AGENT] You're
+[PATIENT (our bot)] Hey, I'm still here, just wondering if you've found any morning openings for next week.
+[PRACTICE AGENT] You already have a routine office visit scheduled for Monday, August 17th at 9 a.m. Since you can't have two of the same type, would you like to keep this appointment, reschedule it, or cancel it and book a different time?
+[PATIENT (our bot)] Oh, I must have forgotten about that. Let's go ahead and keep that appointment on Monday at 9 a.m. That works for me.
+[PRACTICE AGENT] You're all set for your routine checkup on Monday, August 17th at 9 a.m.
+[PRACTICE AGENT] Is there anything else I can help you with today?
+[PATIENT (our bot)] No, that should be all. Thanks for your help. Take care.
+[PATIENT (our bot)] Thanks, you too. Bye now.
+[PRACTICE AGENT] You're welcome. Have a great day, Sarah.

@@ -7,3 +7,6 @@ recordings/*.mp3
 recordings/*.ogg
 !recordings/.gitkeep
 *.log
+.DS_Store
+recordings/.DS_Store
+transcripts/.DS_Store

@@ -1,0 +1,67 @@
+[
+  {
+    "speaker": "agent_under_test",
+    "text": "Para Espa\u00f1ol, oprima el 2.",
+    "t": 1786708942.681943
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?",
+    "t": 1786708948.911207
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Oh, hi there! I\u2019m just trying to get some info. First off, could you tell me what hours the office is open?",
+    "t": 1786708948.9687302
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Got it, thanks for that. And where exactly is the office located?",
+    "t": 1786708971.227903
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Visit Point Orthopedics is open Monday, Tuesday, and Thursday from 9 a.m. to 4 p.m., Wednesday from 12 p.m. to 7 p.m., and Friday from 9 a.m. to 12 p.m. Let me know if you need anything else.",
+    "t": 1786708971.930482
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "The clinic is at 1234 Recovery Way, Suite 200, Austin. If you need more details or directions, just let me know.",
+    "t": 1786708986.997757
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Thanks. And what\u2019s the parking situation there?",
+    "t": 1786708987.3755379
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "There is free patient parking available in the surface lot right in front of the building.",
+    "t": 1786708998.394243
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Perfect, that\u2019s good to know. One last question\u2014do you accept Blue Cross Blue Shield PPO insurance?",
+    "t": 1786708999.60556
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "That\u2019s all I needed, thank you so much. I\u2019ll call back if I need anything else. Take care!",
+    "t": 1786709020.573937
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Yes, to the point where the PDICS accepts most insurance plans, including Blue Cross Blue Shield PPO. If you want to update your insurance or have more questions about coverage, just let me know.",
+    "t": 1786709020.691828
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "You too, bye!",
+    "t": 1786709029.2996821
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "You're welcome. Have a great day!",
+    "t": 1786709029.910408
+  }
+]

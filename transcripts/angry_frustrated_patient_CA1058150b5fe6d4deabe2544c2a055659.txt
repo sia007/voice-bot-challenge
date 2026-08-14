@@ -1,0 +1,35 @@
+# Scenario: angry_frustrated_patient
+# Call SID: CA1058150b5fe6d4deabe2544c2a055659
+
+[PRACTICE AGENT] this is.
+[PRACTICE AGENT] Para Español, oprima el 2.
+[PRACTICE AGENT] Thanks for pulling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?
+[PATIENT (our bot)] Yeah, hi. Look, I had an appointment before, and I ended up waiting 45 minutes because of some double-booking mess. We need to fix this.
+[PATIENT (our bot)] I want to get a new appointment, and I want to make sure this doesn’t happen again. Can you help me set that up?
+[PRACTICE AGENT] I'm sorry you've had to wait so long because of a double booking. Would you like to provide feedback about your experience or do you want help with a future appointment?
+[PATIENT (our bot)] It's Michael Brooks, date of birth is June 6, 1980.
+[PRACTICE AGENT] To help you schedule a new appointment, I'll need your full name and date of birth. Could you please provide those?
+[PRACTICE AGENT] Just to confirm, I have your name as Michael Brooks and your date of birth as June 6, 1980. Is that correct? If so, please spell your first and last name for me.
+[PATIENT (our bot)] Yeah, that’s correct. It’s M-I-C-H-A-E-L for the first name, and B-R-O-O-K-S for the last name.
+[PRACTICE AGENT] Would you like to use your phone number to look up your record? If so, please tell me the number you have on file with us. If you're not sure, I can confirm your name and date of birth again. Let me know what you prefer.
+[PATIENT (our bot)] Yeah, let's use my phone number. It’s 555-559-0021.
+[PRACTICE AGENT] Is that correct?
+[PRACTICE AGENT] I have your phone number at 555-559-0021 and your date of birth as June 6, 1980.
+[PATIENT (our bot)] Yes, that's correct. Thanks.
+[PRACTICE AGENT] Here, calling from the number we have on file.
+[PRACTICE AGENT] Am I speaking with Sarah?
+[PATIENT (our bot)] Yeah, that's my number, the one you have on file. So, can we go ahead and get this new appointment set up?
+[PRACTICE AGENT] What type of appointment do you need today? For example, is this for a follow-up, a new concern, a routine visit, or something else?
+[PATIENT (our bot)] It’s a follow-up appointment. I just want to make sure everything’s on track after the last visit.
+[PRACTICE AGENT] Let me check for available follow-up appointments for you. One moment. We have several follow-up openings this coming Monday with your primary providers, Dr. Doogie Howser and Dr. Kelly Noble. Do you have a preference for which provider you'd like to see? I have openings for a follow-up on Monday, August 17th. Would you prefer to see Dr. Doogie Howser or Dr. Kelly Noble?
+[PATIENT (our bot)] Let’s go with Dr. Kelly Noble. What time do they have available on that Monday?
+[PRACTICE AGENT] Dr. Kelly Noble has openings on Monday, August 17th at 1 p.m. and 2 p.m. Would either of those times work for you?
+[PATIENT (our bot)] Yeah, let’s lock in that 1 p.m. time. That should work for me.
+[PATIENT (our bot)] Thank you, I appreciate that. That should help a lot.
+[PRACTICE AGENT] Your follow-up with Dr. Kelly Noble is being booked for Monday, August 17th at 1 p.m. I'll make a note to help avoid any double booking or long wait. One moment while I confirm your appointment.
+[PATIENT (our bot)] All right, that sounds good. Thanks for setting that up. I’ll be there. Take care.
+[PRACTICE AGENT] Your follow the
+[PATIENT (our bot)] Got it. Thanks for confirming. I’ll be there. Have a good one.
+[PRACTICE AGENT] Your follow-up with Dr. Kelly Noble is set for Monday, August 17th at 1 p.m. at Pivot Point Orthopaedics. Please bring your photo ID, insurance card, and a list of current medications. If you have any imaging discs, bring those, too. See you then.
+[PATIENT (our bot)] Thanks, you too. Take care.
+[PRACTICE AGENT] You're all set! Have a great day!

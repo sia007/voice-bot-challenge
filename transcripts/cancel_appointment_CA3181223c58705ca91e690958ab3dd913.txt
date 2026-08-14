@@ -1,0 +1,25 @@
+# Scenario: cancel_appointment
+# Call SID: CA3181223c58705ca91e690958ab3dd913
+
+[PRACTICE AGENT] this is.
+[PATIENT (our bot)] Hola,
+[PRACTICE AGENT] Para Español, oprima el 2.
+[PRACTICE AGENT] Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[PATIENT (our bot)] Uh, hi there. I need to cancel an appointment, please.
+[PATIENT (our bot)] Yeah, I need to cancel my upcoming appointment. What do you need from me to do that?
+[PRACTICE AGENT] How may I help you today?
+[PRACTICE AGENT] Can I have your full name and date of birth to look up your appointment?
+[PATIENT (our bot)] Sure, it's James Ortiz, and my date of birth is 05/30/1992.
+[PATIENT (our bot)] Yes, that’s correct.
+[PRACTICE AGENT] I have your name as James Ortiz and your date of birth as May 30, 1992, is that correct?
+[PRACTICE AGENT] Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure I can confirm your name and date of birth again, just let me know.
+[PATIENT (our bot)] Sure, I can give you my phone number. It’s 555-118-7734.
+[PRACTICE AGENT] I have your number as 555-118-7734.
+[PRACTICE AGENT] Is that correct?
+[PATIENT (our bot)] Yes, that’s correct.
+[PRACTICE AGENT] Just to confirm, your phone number is 555-118-7734 and your date of birth is May 30, 1992. Is that all correct?
+[PATIENT (our bot)] Yes, everything's correct. Could you go ahead and cancel that appointment for me?
+[PATIENT (our bot)] Oh, wait, I just need to confirm the cancellation. Could you let
+[PRACTICE AGENT] transferring you now. Thank you.
+[PRACTICE AGENT] Hello, you've reached the pretty good AI test line. Goodbye
+[PATIENT (our bot)] Oh, hold on, I still need confirmation that my appointment is canceled. Can you confirm that for me?

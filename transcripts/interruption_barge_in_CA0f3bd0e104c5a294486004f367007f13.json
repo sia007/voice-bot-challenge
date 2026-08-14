@@ -1,0 +1,132 @@
+[
+  {
+    "speaker": "agent_under_test",
+    "text": "Para Espa\u00f1ol, oprima el 2.",
+    "t": 1786709218.201026
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?",
+    "t": 1786709223.895424
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Hey, yeah, I need to book an appointment.",
+    "t": 1786709224.2734232
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Oh, sorry, no, this is Priya Patel. Maybe there's been a mix-up.",
+    "t": 1786709235.43084
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I see you're calling from the number we have on file. Am I speaking with Sarah?",
+    "t": 1786709235.7081852
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "No problem. Please provide your full name and date of birth.",
+    "t": 1786709245.630581
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Sure, it\u2019s Priya Patel, and my date of birth is April 25, 1988.",
+    "t": 1786709246.521764
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yes, that\u2019s correct. It\u2019s P-R-I-Y-A, and Patel is P-A-T-E-L.",
+    "t": 1786709270.349673
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Just to confirm, I have your name as Priya Patel and your date of birth as April 25th, 1988. Is that correct? If so, please spell your first and last name for me.",
+    "t": 1786709271.309624
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yeah, my number is 555-990-1123.",
+    "t": 1786709291.6973271
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Would you like to use your phone number to look up your record? If so, please tell me the number you have on file with us. If you're not sure, just let me know.",
+    "t": 1786709291.8834372
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Would you like to use your phone?",
+    "t": 1786709293.631965
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Wait, sorry\u2014did you say something about using my phone number, or should I pick a time now?",
+    "t": 1786709294.567848
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Sure, the number is 555-990-1123.",
+    "t": 1786709313.8770728
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Yes, I need your phone number to look up your record. Please provide the number you have on file with us. Once I confirm your details, we can look at appointment times.",
+    "t": 1786709314.4135349
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yep, that's correct.",
+    "t": 1786709333.938297
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I'd have your phone number as 555-990-1123 and your date of birth as April 25th, 1988. Is that correct?",
+    "t": 1786709334.691055
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I'm unable to find your record in our system. I can connect you to our patient support team for help. Would you like me to transfer you now?",
+    "t": 1786709351.781049
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Oh, hold on, before that\u2014can we just check what appointment times are available first?",
+    "t": 1786709352.538739
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Wait, just to clarify, did you say you can't see any appointment times at all right now?",
+    "t": 1786709371.5545962
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I can't check appointment times without first finding your record in our system. Our patient support team can help get you set up and book your appointment. Would you like me to connect you now?",
+    "t": 1786709371.9570339
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "That's right, I need to locate your patient record before I can view or book any appointment time. Since I couldn't find your record, our support team will need to help you get started. Would you like me to connect you to them now?",
+    "t": 1786709391.877534
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "All right, go ahead and connect me to them. Thanks for your help.",
+    "t": 1786709391.993271
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Transferring you now. Thank you",
+    "t": 1786709402.50756
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Hello, you've reached the Pretty Good AI test line. Goodbye.",
+    "t": 1786709405.6064498
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Goodbye. I\u2019ll call back if I need anything else.",
+    "t": 1786709406.901345
+  }
+]

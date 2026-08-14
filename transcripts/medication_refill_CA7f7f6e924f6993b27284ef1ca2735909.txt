@@ -1,0 +1,33 @@
+# Scenario: medication_refill
+# Call SID: CA7f7f6e924f6993b27284ef1ca2735909
+
+[PRACTICE AGENT] That's it.
+[PATIENT (our bot)] Um, hi there.
+[PRACTICE AGENT] Para Español, oprima el 2.
+[PATIENT (our bot)] Hi, I’m calling because I need a refill on my blood pressure medication. Could you help me with that?
+[PRACTICE AGENT] Thanks for calling pivot point orthopedics part of pretty good AI. How may I help you today?
+[PRACTICE AGENT] I see you're calling from the number we have on file.
+[PRACTICE AGENT] Am I speaking with Sarah?
+[PATIENT (our bot)] Oh, actually, my name is Linda Park. Maybe there’s been a mix-up. I can give you my details if that helps.
+[PRACTICE AGENT] Yes, please provide your full name and date of birth.
+[PATIENT (our bot)] Sure, it's Linda Park, and my date of birth is September 9, 1965.
+[PRACTICE AGENT] Just to confirm, I have your name as Linda Park and your date of birth as September 9th, 1965. Is that correct? If so, could you please spell your first and last name for me?
+[PATIENT (our bot)] Yes, that’s correct. My first name: L-I-N-D-A, and last name: P-A-R-K.
+[PRACTICE AGENT] Would you like me to look up your record using the phone number you have on file with us?
+[PRACTICE AGENT] If so, please tell me that number.
+[PATIENT (our bot)] I can give you my phone number. It's 555-556-2200.
+[PRACTICE AGENT] If you're not sure, I can confirm your name and date of birth again. Which would you prefer?
+[PRACTICE AGENT] I have your phone number as 555-556.
+[PATIENT (our bot)] That's right
+[PRACTICE AGENT] 2200.
+[PRACTICE AGENT] Is that correct?
+[PATIENT (our bot)] Yes, that's correct. Now, could we go ahead and sort out the refill for my lisinopril 10 mg?
+[PATIENT (our bot)] Sure, no problem.
+[PRACTICE AGENT] Let me finish verifying your information and then I'll help with your Lysita Pro refill. One moment.
+[PRACTICE AGENT] I can't proceed further right now, but I can make sure our clinic support team follows up with you. Would you like me to connect you to our patient support team?
+[PATIENT (our bot)] Actually, I really need to make sure this refill gets sent to my pharmacy. Can you help confirm the pharmacy for me?
+[PRACTICE AGENT] Transferring you now. Thank you
+[PATIENT (our bot)] Wait—just to clarify, the pharmacy is Walgreens on Main Street.
+[PRACTICE AGENT] Goodbye.
+[PRACTICE AGENT] Hello, you've reached the pretty good AI test line.
+[PATIENT (our bot)] All right, thanks for your help. Goodbye.

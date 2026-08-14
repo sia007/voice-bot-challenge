@@ -1,0 +1,24 @@
+# Scenario: insurance_edge_case
+# Call SID: CAe7b785dbac326ec3193be6cb80f30750
+
+[PRACTICE AGENT] purposes.
+[PATIENT (our bot)] Eh, hola,
+[PRACTICE AGENT] Para Español, oprima el 2.
+[PRACTICE AGENT] Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?
+[PATIENT (our bot)] Hey, uh, I'm trying to find out if you take my insurance. It’s kind of a unique one—my employer’s self-funded plan through Acme Logistics, administered by UMR. Could you help me figure that out?
+[PATIENT (our bot)] Sure, my name’s Thomas Reyes, and my date of birth is March 5th, 1982.
+[PRACTICE AGENT] I can check that for you. May I have your full name and date of birth?
+[PRACTICE AGENT] I have your name as Thomas Reyes and your date of birth as March 5th, 1982. Could you please spell out your first and last name to make sure I have it correct?
+[PATIENT (our bot)] Of course, first name: T-H-O-M-A-S, last name: R-E-Y-E-S.
+[PRACTICE AGENT] Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us.
+[PRACTICE AGENT] If you're not sure I can confirm your name and date of birth again, which would you prefer?
+[PATIENT (our bot)] Let’s use my phone number. It’s 555-771-4482.
+[PRACTICE AGENT] I have your phone number as 555-771-4482 and your date of birth as March 5, 1982.
+[PRACTICE AGENT] Is that correct?
+[PATIENT (our bot)] Yep, that’s correct. So, can you tell me if you accept that insurance plan I mentioned?
+[PATIENT (our bot)] All right, that sounds good. I’ll wait for them to get back to me. Thanks for your help. Take care.
+[PRACTICE AGENT] I can't proceed further right now, but I can make sure our clinic support team follows up with you about your insurance question. I'll document your request for them.
+[PRACTICE AGENT] Trust for you now. Thank you
+[PATIENT (our bot)] No problem at all. Have a good one, bye.
+[PATIENT (our bot)] Goodbye, take care.
+[PRACTICE AGENT] Hello, you've reached the Pretty Good AI test line. Goodbye.
