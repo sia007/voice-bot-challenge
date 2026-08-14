@@ -1,0 +1,102 @@
+[
+  {
+    "speaker": "agent_under_test",
+    "text": "purposes.",
+    "t": 1786723675.510648
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "(Espera en silencio",
+    "t": 1786723677.548861
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Para Espa\u00f1ol, oprima el 2.",
+    "t": 1786723679.6138802
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Thanks for calling Pivot Point Orphopedics.",
+    "t": 1786723681.400564
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I'm part of pretty good AI. How may I help you today?",
+    "t": 1786723683.5194829
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Oh, hi! I\u2019d like to set up a routine check-up appointment for next week, preferably in the morning.",
+    "t": 1786723684.6888561
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yes, this is Sarah Mitchell. That\u2019s me.",
+    "t": 1786723696.421786
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I see you're calling from the number we have on file. Am I speaking with Sarah?",
+    "t": 1786723696.54774
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Sure, my date of birth is March 14, 1990.",
+    "t": 1786723704.232141
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Please provide your date of birth.",
+    "t": 1786723704.5198898
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Just to confirm, you'd like to book a general office visit for a routine check-up next week? Is that correct?",
+    "t": 1786723720.5317152
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yes, that's correct. I'm looking for a routine check-up sometime next week, morning if possible.",
+    "t": 1786723720.9248042
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "I'm open to any available provider. I just want to get this routine check-up done.",
+    "t": 1786723734.301939
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Do you have a specific provider you'd like to see, or are you open to any available provider?",
+    "t": 1786723734.5672472
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "You already have a routine office visit scheduled for Monday, August 17th at 9 a.m. Would you like to keep this appointment, reschedule it, or cancel it?",
+    "t": 1786723754.445246
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Oh, I didn't remember that. Let's keep that appointment on Monday at 9 a.m. That works perfectly.",
+    "t": 1786723754.9060018
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "No, that covers it. Thanks a lot for your help. I'll be there. Take care, bye.",
+    "t": 1786723771.824696
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "You're all set for your routine checkup on Monday, August 17th at 9 a.m. Is there anything else I can help you with today?",
+    "t": 1786723772.092871
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Thanks again, take care!",
+    "t": 1786723783.4499881
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Glad I could help. Have a great day and see you Monday.",
+    "t": 1786723784.218079
+  }
+]

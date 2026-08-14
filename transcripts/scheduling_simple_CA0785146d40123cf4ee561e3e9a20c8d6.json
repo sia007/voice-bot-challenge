@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "agent_under_test",
+    "text": "That's it.",
+    "t": 1786722901.1676002
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Para Espa\u00f1ol, oprima el 2.",
+    "t": 1786722902.602587
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?",
+    "t": 1786722909.2181911
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Oh, hi there. I\u2019m looking to set up a routine check-up for next week, preferably in the morning.",
+    "t": 1786722909.303367
+  }
+]

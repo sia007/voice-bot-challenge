@@ -1,0 +1,22 @@
+# Scenario: scheduling_simple
+# Call SID: CA5d0c7b226cf3d410723fd5cd4ea81e89
+
+[PRACTICE AGENT] Thank you.
+[PATIENT (our bot)] (Espera
+[PRACTICE AGENT] Para Español, oprima el 2.
+[PRACTICE AGENT] Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?
+[PATIENT (our bot)] Hi, I’d like to schedule a routine check-up for next week, preferably in the morning.
+[PATIENT (our bot)] Yes, this is Sarah Mitchell.
+[PRACTICE AGENT] I see you're calling from the number we have on file. Am I speaking with Sarah?
+[PRACTICE AGENT] MBC 뉴스 이덕영입니다.
+[PATIENT (our bot)] Great, I’m hoping we can find a morning slot sometime next week.
+[PATIENT (our bot)] Sure, my date of birth is March 14, 1990.
+[PRACTICE AGENT] Please provide...
+[PATIENT (our bot)] Yes, that's correct. Do you have any openings in the morning next week?
+[PRACTICE AGENT] Just to confirm, you'd like to book a general office visit for a routine check-up next week, preferably in the morning. Is that correct?
+[PRACTICE AGENT] You already have an office visit scheduled for Monday, August 17th at 9 a.m. Since you can't have two of the same type, would you like to keep this appointment, reschedule it, or cancel it?
+[PATIENT (our bot)] Oh, I must’ve forgotten about that. Let’s keep that Monday, August 17th at 9 a.m. appointment. That works for me.
+[PATIENT (our bot)] Got it, that’s perfect. Thanks for your help. Take care, bye.
+[PRACTICE AGENT] You're all set for Monday, August 17th at 9 a.m. If you need to make any changes or have other questions, just let me know.
+[PATIENT (our bot)] You too, bye now.
+[PRACTICE AGENT] Take care. Farah, have a great day.

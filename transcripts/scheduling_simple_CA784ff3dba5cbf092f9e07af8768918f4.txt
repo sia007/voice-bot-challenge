@@ -1,0 +1,27 @@
+# Scenario: scheduling_simple
+# Call SID: CA784ff3dba5cbf092f9e07af8768918f4
+
+[PRACTICE AGENT] Okay.
+[PATIENT (our bot)] Hola,
+[PRACTICE AGENT] Para Español, oprima el 2.
+[PRACTICE AGENT] Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?
+[PATIENT (our bot)] Hi, I need to set up a routine check-up for next week. Preferably in the morning. Can you help me with that?
+[PRACTICE AGENT] I can help schedule your check-up.
+[PRACTICE AGENT] May I have your full name and date of birth?
+[PATIENT (our bot)] Sure, my name's Sarah Mitchell, and my date of birth is March 14, 1990.
+[PRACTICE AGENT] Just to confirm, I have your name as Sarah Mitchell and your date of birth is March 14th, 1990. Is that correct?
+[PRACTICE AGENT] If so, could you please spell your first and last name for me?
+[PATIENT (our bot)] Of course, it's S-A-R-A-H for the first name, and M-I-T-C-H-E-L-L for the last name.
+[PRACTICE AGENT] Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us.
+[PRACTICE AGENT] If you're not sure I can confirm your name and date of birth again instead, which would you prefer?
+[PATIENT (our bot)] Let's go with my phone number. It's 555-201-4488. That should help find my record.
+[PRACTICE AGENT] Let me check your record with the information you provided. One moment.
+[PATIENT (our bot)] Yes, that’s correct.
+[PRACTICE AGENT] and their phone number is 555-201-4488 and your date of birth is March 14, 1990. Is that correct?
+[PRACTICE AGENT] I wasn't able to find your record in our system. I can connect you to our patient support team for help.
+[PRACTICE AGENT] Would you like me to transfer you now?
+[PATIENT (our bot)] Oh, that’s odd. I’m sure I’ve been there before. Maybe we can double-check the spelling or try another way? I’d prefer to get the appointment set now.
+[PRACTICE AGENT] Transferring you now. Thank you.
+[PATIENT (our bot)] Wait, hold on. I’d really prefer not to get transferred. Can we just try another
+[PRACTICE AGENT] Hello, you've reached the pretty good AI test line. Goodbye.
+[PATIENT (our bot)] Oh, okay. Well, I guess we’ll have to try again another time. Thanks anyway. Take care.

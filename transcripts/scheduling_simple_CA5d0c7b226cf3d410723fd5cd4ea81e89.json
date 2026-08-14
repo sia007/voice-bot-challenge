@@ -1,0 +1,97 @@
+[
+  {
+    "speaker": "agent_under_test",
+    "text": "Thank you.",
+    "t": 1786727272.422153
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "(Espera",
+    "t": 1786727272.495971
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Para Espa\u00f1ol, oprima el 2.",
+    "t": 1786727272.6757782
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?",
+    "t": 1786727279.252202
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Hi, I\u2019d like to schedule a routine check-up for next week, preferably in the morning.",
+    "t": 1786727280.207754
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yes, this is Sarah Mitchell.",
+    "t": 1786727293.312799
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I see you're calling from the number we have on file. Am I speaking with Sarah?",
+    "t": 1786727294.093854
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "MBC \ub274\uc2a4 \uc774\ub355\uc601\uc785\ub2c8\ub2e4.",
+    "t": 1786727296.463617
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Great, I\u2019m hoping we can find a morning slot sometime next week.",
+    "t": 1786727297.26963
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Sure, my date of birth is March 14, 1990.",
+    "t": 1786727299.6319842
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Please provide...",
+    "t": 1786727299.6330419
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yes, that's correct. Do you have any openings in the morning next week?",
+    "t": 1786727318.417205
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Just to confirm, you'd like to book a general office visit for a routine check-up next week, preferably in the morning. Is that correct?",
+    "t": 1786727318.798131
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "You already have an office visit scheduled for Monday, August 17th at 9 a.m. Since you can't have two of the same type, would you like to keep this appointment, reschedule it, or cancel it?",
+    "t": 1786727338.344209
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Oh, I must\u2019ve forgotten about that. Let\u2019s keep that Monday, August 17th at 9 a.m. appointment. That works for me.",
+    "t": 1786727338.892826
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Got it, that\u2019s perfect. Thanks for your help. Take care, bye.",
+    "t": 1786727356.128153
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "You're all set for Monday, August 17th at 9 a.m. If you need to make any changes or have other questions, just let me know.",
+    "t": 1786727356.375772
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "You too, bye now.",
+    "t": 1786727368.516417
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Take care. Farah, have a great day.",
+    "t": 1786727369.95247
+  }
+]

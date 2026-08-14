@@ -1,0 +1,122 @@
+[
+  {
+    "speaker": "agent_under_test",
+    "text": "Okay.",
+    "t": 1786723260.9720142
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Hola,",
+    "t": 1786723262.585923
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Para Espa\u00f1ol, oprima el 2.",
+    "t": 1786723263.063016
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?",
+    "t": 1786723269.578835
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Hi, I need to set up a routine check-up for next week. Preferably in the morning. Can you help me with that?",
+    "t": 1786723270.081263
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I can help schedule your check-up.",
+    "t": 1786723279.992576
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "May I have your full name and date of birth?",
+    "t": 1786723283.0485098
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Sure, my name's Sarah Mitchell, and my date of birth is March 14, 1990.",
+    "t": 1786723283.715134
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Just to confirm, I have your name as Sarah Mitchell and your date of birth is March 14th, 1990. Is that correct?",
+    "t": 1786723300.368876
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "If so, could you please spell your first and last name for me?",
+    "t": 1786723302.798316
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Of course, it's S-A-R-A-H for the first name, and M-I-T-C-H-E-L-L for the last name.",
+    "t": 1786723303.390879
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us.",
+    "t": 1786723322.310072
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "If you're not sure I can confirm your name and date of birth again instead, which would you prefer?",
+    "t": 1786723326.035145
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Let's go with my phone number. It's 555-201-4488. That should help find my record.",
+    "t": 1786723327.090047
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Let me check your record with the information you provided. One moment.",
+    "t": 1786723340.318662
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yes, that\u2019s correct.",
+    "t": 1786723349.988586
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "and their phone number is 555-201-4488 and your date of birth is March 14, 1990. Is that correct?",
+    "t": 1786723352.24999
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I wasn't able to find your record in our system. I can connect you to our patient support team for help.",
+    "t": 1786723366.647476
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Would you like me to transfer you now?",
+    "t": 1786723367.472857
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Oh, that\u2019s odd. I\u2019m sure I\u2019ve been there before. Maybe we can double-check the spelling or try another way? I\u2019d prefer to get the appointment set now.",
+    "t": 1786723369.040396
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Transferring you now. Thank you.",
+    "t": 1786723382.0060391
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Wait, hold on. I\u2019d really prefer not to get transferred. Can we just try another",
+    "t": 1786723382.42926
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Hello, you've reached the pretty good AI test line. Goodbye.",
+    "t": 1786723387.236853
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Oh, okay. Well, I guess we\u2019ll have to try again another time. Thanks anyway. Take care.",
+    "t": 1786723387.7825751
+  }
+]

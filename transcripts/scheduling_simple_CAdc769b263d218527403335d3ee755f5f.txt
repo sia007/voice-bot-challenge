@@ -1,0 +1,23 @@
+# Scenario: scheduling_simple
+# Call SID: CAdc769b263d218527403335d3ee755f5f
+
+[PRACTICE AGENT] purposes.
+[PATIENT (our bot)] (Espera en silencio
+[PRACTICE AGENT] Para Español, oprima el 2.
+[PRACTICE AGENT] Thanks for calling Pivot Point Orphopedics.
+[PRACTICE AGENT] I'm part of pretty good AI. How may I help you today?
+[PATIENT (our bot)] Oh, hi! I’d like to set up a routine check-up appointment for next week, preferably in the morning.
+[PATIENT (our bot)] Yes, this is Sarah Mitchell. That’s me.
+[PRACTICE AGENT] I see you're calling from the number we have on file. Am I speaking with Sarah?
+[PATIENT (our bot)] Sure, my date of birth is March 14, 1990.
+[PRACTICE AGENT] Please provide your date of birth.
+[PRACTICE AGENT] Just to confirm, you'd like to book a general office visit for a routine check-up next week? Is that correct?
+[PATIENT (our bot)] Yes, that's correct. I'm looking for a routine check-up sometime next week, morning if possible.
+[PATIENT (our bot)] I'm open to any available provider. I just want to get this routine check-up done.
+[PRACTICE AGENT] Do you have a specific provider you'd like to see, or are you open to any available provider?
+[PRACTICE AGENT] You already have a routine office visit scheduled for Monday, August 17th at 9 a.m. Would you like to keep this appointment, reschedule it, or cancel it?
+[PATIENT (our bot)] Oh, I didn't remember that. Let's keep that appointment on Monday at 9 a.m. That works perfectly.
+[PATIENT (our bot)] No, that covers it. Thanks a lot for your help. I'll be there. Take care, bye.
+[PRACTICE AGENT] You're all set for your routine checkup on Monday, August 17th at 9 a.m. Is there anything else I can help you with today?
+[PATIENT (our bot)] Thanks again, take care!
+[PRACTICE AGENT] Glad I could help. Have a great day and see you Monday.

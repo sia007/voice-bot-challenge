@@ -1,0 +1,28 @@
+# Scenario: scheduling_simple
+# Call SID: CAa50c5492c2dd8eed797604fdd14762ae
+
+[PRACTICE AGENT] Thanks.
+[PATIENT (our bot)] Hola, sí,
+[PRACTICE AGENT] Para Español, oprima el 2.
+[PRACTICE AGENT] Thanks for calling Pivot Point Orthopedics.
+[PRACTICE AGENT] part of Pretty Good AI. How may I help you today?
+[PATIENT (our bot)] Hey, I’m looking to set up a routine check-up for next week. Preferably in the morning. What do you have available?
+[PRACTICE AGENT] I can help with that.
+[PRACTICE AGENT] May I have your full name and date of birth?
+[PATIENT (our bot)] Sure thing. My name's Sarah Mitchell, and my date of birth is 03/14/1990.
+[PATIENT (our bot)] Of course, it's Sarah: S-A-R-A-H, and Mitchell: M-I-T-C-H-E-L-L.
+[PRACTICE AGENT] I have your name as Sarah Mitchell and your date of birth is March 14th, 1990. Could you please spell out your first and last name to make sure I have it correct?
+[PATIENT (our bot)] Sure, I can give you my phone number. It's 555-201-4488.
+[PRACTICE AGENT] Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, just let me know.
+[PRACTICE AGENT] I have your phone number as 5-5-5.
+[PRACTICE AGENT] 201-4488.
+[PRACTICE AGENT] and your date of birth is March 14, 1990.
+[PATIENT (our bot)] Yes, that’s right.
+[PRACTICE AGENT] Is that correct?
+[PATIENT (our bot)] Oh
+[PRACTICE AGENT] I'm unable to access your record to schedule the appointment right now. I'll connect you to our patient support team so they can help you set up your checkup. Please stay on the line.
+[PATIENT (our bot)] All right, thanks. I’ll wait.
+[PRACTICE AGENT] Transferring you now. Thank you.
+[PRACTICE AGENT] Hello.
+[PRACTICE AGENT] You've reached the pretty good AI test line. Goodbye.
+[PATIENT (our bot)] Oh, okay. Well, goodbye then. Thanks anyway.

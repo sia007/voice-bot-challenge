@@ -1,0 +1,92 @@
+[
+  {
+    "speaker": "agent_under_test",
+    "text": "Para Espa\u00f1ol, oprima el 2.",
+    "t": 1786724233.5980191
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Hi, I need to set up a routine check-up appointment for next week, preferably in the morning.",
+    "t": 1786724238.9575958
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?",
+    "t": 1786724239.4814239
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yeah, this is Sarah Mitchell.",
+    "t": 1786724250.0015428
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I see you're calling from the number we have on file. Am I speaking with Sarah?",
+    "t": 1786724251.049357
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Please provide your date of birth.",
+    "t": 1786724256.463081
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Sure, my date of birth is March 14, 1990.",
+    "t": 1786724257.176893
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Just to confirm, you'd like to book a general office visit for a routine check-up next week, is that correct?",
+    "t": 1786724278.009037
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yep, that's right, I\u2019d like to get that set up, morning times if possible.",
+    "t": 1786724278.445872
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "You already have an office visit scheduled for Monday, August 17th at...",
+    "t": 1786724296.3459682
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "9 a.m. since you can't have two of the same type",
+    "t": 1786724298.754059
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Oh, I must have forgotten about that one. Let\u2019s keep that appointment on Monday at 9 a.m., that actually works fine for me. Thanks for the reminder.",
+    "t": 1786724304.772938
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Would you like to keep this appointment, reschedule it, or cancel it?",
+    "t": 1786724305.140484
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "You're all set for your office visit on Monday, August 17th at 9 a.m. If you need to make any changes, just let me know.",
+    "t": 1786724323.22348
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Is there anything else I can help you with today?",
+    "t": 1786724324.171938
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "No, that's all clear. Thanks a lot. Have a good day.",
+    "t": 1786724324.9055629
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Thanks, goodbye!",
+    "t": 1786724333.798709
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Glad I could help. Have a great day.",
+    "t": 1786724334.052259
+  }
+]

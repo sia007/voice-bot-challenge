@@ -1,0 +1,127 @@
+[
+  {
+    "speaker": "agent_under_test",
+    "text": "Thanks.",
+    "t": 1786728029.588436
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Hola, s\u00ed,",
+    "t": 1786728030.52289
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Para Espa\u00f1ol, oprima el 2.",
+    "t": 1786728030.589088
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Thanks for calling Pivot Point Orthopedics.",
+    "t": 1786728033.6670852
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "part of Pretty Good AI. How may I help you today?",
+    "t": 1786728036.3401868
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Hey, I\u2019m looking to set up a routine check-up for next week. Preferably in the morning. What do you have available?",
+    "t": 1786728037.5206962
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I can help with that.",
+    "t": 1786728048.131189
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "May I have your full name and date of birth?",
+    "t": 1786728050.85961
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Sure thing. My name's Sarah Mitchell, and my date of birth is 03/14/1990.",
+    "t": 1786728051.167955
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Of course, it's Sarah: S-A-R-A-H, and Mitchell: M-I-T-C-H-E-L-L.",
+    "t": 1786728071.4186392
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I have your name as Sarah Mitchell and your date of birth is March 14th, 1990. Could you please spell out your first and last name to make sure I have it correct?",
+    "t": 1786728071.4477959
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Sure, I can give you my phone number. It's 555-201-4488.",
+    "t": 1786728094.6144562
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, just let me know.",
+    "t": 1786728094.7405179
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I have your phone number as 5-5-5.",
+    "t": 1786728106.8324149
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "201-4488.",
+    "t": 1786728110.160424
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "and your date of birth is March 14, 1990.",
+    "t": 1786728113.793472
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Yes, that\u2019s right.",
+    "t": 1786728114.675456
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Is that correct?",
+    "t": 1786728114.685427
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Oh",
+    "t": 1786728131.471841
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "I'm unable to access your record to schedule the appointment right now. I'll connect you to our patient support team so they can help you set up your checkup. Please stay on the line.",
+    "t": 1786728132.378073
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "All right, thanks. I\u2019ll wait.",
+    "t": 1786728134.0535228
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Transferring you now. Thank you.",
+    "t": 1786728134.892549
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "Hello.",
+    "t": 1786728135.399319
+  },
+  {
+    "speaker": "agent_under_test",
+    "text": "You've reached the pretty good AI test line. Goodbye.",
+    "t": 1786728139.5895429
+  },
+  {
+    "speaker": "caller_bot",
+    "text": "Oh, okay. Well, goodbye then. Thanks anyway.",
+    "t": 1786728139.8766909
+  }
+]

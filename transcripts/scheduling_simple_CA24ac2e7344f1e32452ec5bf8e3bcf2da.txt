@@ -1,0 +1,23 @@
+# Scenario: scheduling_simple
+# Call SID: CA24ac2e7344f1e32452ec5bf8e3bcf2da
+
+[PRACTICE AGENT] purposes.
+[PRACTICE AGENT] Para Español, oprima el 2.
+[PATIENT (our bot)] Hey, I’d like to set up a routine check-up for next week, preferably in the morning.
+[PRACTICE AGENT] Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?
+[PATIENT (our bot)] Yeah, that’s me, Sarah Mitchell.
+[PRACTICE AGENT] I see you're calling from the number we have on file. Am I speaking with Sarah?
+[PATIENT (our bot)] Sure, it's March 14, 1990.
+[PRACTICE AGENT] Please provide your date of birth.
+[PATIENT (our bot)] Yeah, exactly. Just a general routine check-up, nothing urgent.
+[PRACTICE AGENT] You mentioned wanting a routine check-up. Just to confirm, are you looking to book a general office visit for routine care?
+[PRACTICE AGENT] Do you have a specific provider you'd like to see, or are you open to anyone available?
+[PATIENT (our bot)] I'm open to anyone available, as long as it’s a morning appointment next week.
+[PRACTICE AGENT] You already have a routine office visit scheduled for Monday, August 17th at 9 a.m.
+[PRACTICE AGENT] Would you like to keep this appointment, reschedule it, or cancel it?
+[PATIENT (our bot)] Oh, I didn't realize I had that booked. Let’s keep that appointment on Monday at 9 a.m. That works for me.
+[PRACTICE AGENT] You're all set for your routine checkup on Monday, August 17th at 9 a.m.
+[PRACTICE AGENT] Is there anything else I can help you with today?
+[PATIENT (our bot)] No, that’s all I needed. Thanks a lot, have a good day.
+[PRACTICE AGENT] You too. Take care.
+[PATIENT (our bot)] Bye now.

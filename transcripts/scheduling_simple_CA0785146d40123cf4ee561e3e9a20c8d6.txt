@@ -1,0 +1,7 @@
+# Scenario: scheduling_simple
+# Call SID: CA0785146d40123cf4ee561e3e9a20c8d6
+
+[PRACTICE AGENT] That's it.
+[PRACTICE AGENT] Para Español, oprima el 2.
+[PRACTICE AGENT] Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today?
+[PATIENT (our bot)] Oh, hi there. I’m looking to set up a routine check-up for next week, preferably in the morning.
